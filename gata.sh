@@ -246,7 +246,7 @@ v1="${b}\033[32m"
 b="\033[0m"
 
 menu() {
-	#GataBot-MD
+	#UnixBot-MD
 	echo -e "${v1} MENÚ DE CONFIGURACIÓN"
 	printf "\n"
 	printf "${v1}[${b}01${v1}]${v} Visistar Grupo de Actualizaciones\n"
